@@ -1,0 +1,8 @@
+export {default as Header} from './Header'
+export {default as Reels} from './Reels'
+export {default as Buttons} from './Buttons'
+export {default as Counts} from './Counts'
+export {default as ChanceLamp} from './ChanceLamp'
+export {default as StarLamp} from './StarLamp'
+export {default as Lever} from './Lever'
+export {default as ListOfDividends} from './ListOfDividends'
